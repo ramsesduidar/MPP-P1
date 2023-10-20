@@ -1,0 +1,12 @@
+
+Executing with: N = 1000 N_GEN = 1 TAM_POB = 200 M_RATE = 0.15
+Suma-87.120000
+Execution Time: 8.89 sec
+
+Executing with: N = 1000 N_GEN = 1 TAM_POB = 200 M_RATE = 0.15
+Suma-87.690000
+Execution Time: 8.94 sec
+
+Executing with: N = 1000 N_GEN = 1 TAM_POB = 200 M_RATE = 0.15
+Suma-86.970000
+Execution Time: 8.87 sec
